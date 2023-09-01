@@ -40,7 +40,10 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"github.copilot",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+				"github.vscode-github-actions",
+				"GitHub.copilot",
+				"GitHub.copilot-labs"
 			]
 		}
 	},
