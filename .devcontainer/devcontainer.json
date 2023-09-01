@@ -43,7 +43,8 @@
 				"ms-vscode.makefile-tools",
 				"github.vscode-github-actions",
 				"GitHub.copilot",
-				"GitHub.copilot-labs"
+				"GitHub.copilot-labs",
+				"ms-python.pylint"
 			]
 		}
 	},
