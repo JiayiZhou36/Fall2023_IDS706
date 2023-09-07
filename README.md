@@ -1,4 +1,4 @@
-# Fall2023_IDS706
+# Fall2023_IDS706 Mini Project 1
 ### Purpose
 This is for class data engineering mini-project 1. 
 This is a Python GitHub template that will be used for the rest of the class (Makefile, GitHub Actions, requirements.txt,
