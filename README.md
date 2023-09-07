@@ -9,6 +9,10 @@ README.md, .devcontainer).
 2. In main.py, an add function is created. 
 3. In test_main.py, the assert command is used.
 
+### Preparation
+1. Install pytest: pip install pytest
+2. Install pytest-cov: pip install pytest-cov
+
 ### Result
 In codespace, I run command make test, make format, and make lint.
 The commands run smoothly.
