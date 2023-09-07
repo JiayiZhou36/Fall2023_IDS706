@@ -2,7 +2,7 @@
 ### Purpose
 This is for class data engineering mini-project 1. 
 This is a Python GitHub template that will be used for the rest of the class (Makefile, GitHub Actions, requirements.txt,
-README.md, .devcontainer). 
+README.md, .devcontainer).
 
 ### Steps
 1. I created the template based on the template and video posted by Professor Noah Gift and modified the template based on requirement on syllabus.
